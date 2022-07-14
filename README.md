@@ -19,6 +19,6 @@
 </div><br><br>
 
 ## Contato
-<a https://www.linkedin.com/in/erick-amorim-265667214/" target="_blank">
-  <img href="https://www.linkedin.com/in/erick-amorim-265667214/" align="center" src="https://img.shields.io/badge/-Erick Amorim-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/erick-amorim-265667214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
