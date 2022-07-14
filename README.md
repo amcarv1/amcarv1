@@ -19,6 +19,6 @@
 </div><br><br>
 
 ## Contato
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a https://www.linkedin.com/in/erick-amorim-265667214/" target="_blank">
   <img href="https://www.linkedin.com/in/erick-amorim-265667214/" align="center" src="https://img.shields.io/badge/-Erick Amorim-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
